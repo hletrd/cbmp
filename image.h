@@ -4,8 +4,8 @@
 #define IMPORT_NOT_BMP 0
 #define IMPORT_BIT_WRONG 1
 #define IMPORT_SUCCESS 2
-#include <stdlib.h>
-#include <stdio.h>
+#include <cstdlib>
+#include <cstdio>
 
 struct image{
 private:
